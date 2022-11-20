@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraffitiPrinter.UI", "GraffitiPrinter.UI\GraffitiPrinter.UI.csproj", "{3E78378C-C77F-40F0-A803-BE355A22E4F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GraffitiPrinter.Setup", "GraffitiPrinter.Setup\GraffitiPrinter.Setup.vdproj", "{5B1195A2-24A7-4B1D-84FC-7C0CBC3C0F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E78378C-C77F-40F0-A803-BE355A22E4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E78378C-C77F-40F0-A803-BE355A22E4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E78378C-C77F-40F0-A803-BE355A22E4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E78378C-C77F-40F0-A803-BE355A22E4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1195A2-24A7-4B1D-84FC-7C0CBC3C0F02}.Debug|Any CPU.ActiveCfg = Debug
+		{5B1195A2-24A7-4B1D-84FC-7C0CBC3C0F02}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423C9A37-8FFC-406E-BEBC-037B67DB30FE}
+	EndGlobalSection
+EndGlobal
